@@ -4,7 +4,7 @@ Setup, develop and deploy an ASP.NET project with Docker is really easy, Microso
 
 https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-2.2
 
-https://docs.microsoft.com/en-US/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio-code#add-a-model-class
+https://docs.microsoft.com/en-US/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio-code
 
 This repository is based on the demo with some bash scripts added to start and build the code.
 
